@@ -4,20 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e734fdc-26cb-43d0-9503-98f58f92dc20" name="Changes" comment="HW1 complete">
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW_2/Amphibians.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW_2/Animals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW_2/Frog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW_2/Gekkon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW_2/Insects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW_2/JumpHeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW_2/Reptile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW_2/Soundable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW_2/Spider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW_2/Terrarium.java" afterDir="false" />
+    <list default="true" id="3e734fdc-26cb-43d0-9503-98f58f92dc20" name="Changes" comment="HW2 complete, Terrarium">
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW_3/Double.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW_3/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW_3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685562372170</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HW2 complete, Terrarium">
+      <created>1685997961581</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685997961581</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,6 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW1 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW1 complete" />
+    <MESSAGE value="HW2 complete, Terrarium" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW2 complete, Terrarium" />
   </component>
 </project>
